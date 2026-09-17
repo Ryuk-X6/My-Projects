@@ -1,1 +1,17 @@
+# Credentials & Sensitive Files
+*.pem
+*.key
+.env
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+```[cite: 1]
