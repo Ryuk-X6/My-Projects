@@ -60,7 +60,7 @@ An automated, serverless Threat Detection and Incident Response (SOAR) pipeline 
 
 ## 📁 Directory Structure
 
-
+```text
 AWS-project/
 ├── .gitignore              # Excludes sensitive keys, tokens, and env files
 ├── README.md               # Project documentation
